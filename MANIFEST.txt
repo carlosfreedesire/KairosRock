@@ -1,6 +1,7 @@
 CNAME
 MANIFEST.txt
 README.md
+blog/despues-del-ensayo.html
 blog/index.html
 blog/kairos-no-espera.html
 blog/primer-ensayo.html
