@@ -72,12 +72,19 @@
       "post.proximo.p1": "Estamos dentro del próximo álbum.",
       "post.proximo.p2": "Thrash de los 80. Actualizado a Kairós: más filo, menos pose.",
       "post.proximo.p3": "Hoy solo el aviso. El resto, a golpes.",
+      "post.golpe.title": "Primer golpe — Blog Kairós",
+      "post.golpe.desc": "El riff de apertura del próximo álbum ya está.",
+      "post.golpe.h1": "Primer golpe",
+      "post.golpe.p1": "Encajamos el riff de apertura.",
+      "post.golpe.p2": "Downpicking seco. Sin estribillo. Solo el ataque.",
+      "post.golpe.p3": "Unmeasured midió el momento. Esto carga.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
       "date.despues": "7 sep 2026",
       "date.unmeasured": "11 sep 2026",
-      "date.proximo": "14 sep 2026"
+      "date.proximo": "14 sep 2026",
+      "date.golpe": "14 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -149,12 +156,19 @@
       "post.proximo.p1": "We're inside the next album.",
       "post.proximo.p2": "80s thrash. Updated for Kairós: more edge, less pose.",
       "post.proximo.p3": "Today just the signal. The rest, hit by hit.",
+      "post.golpe.title": "First hit — Kairós Blog",
+      "post.golpe.desc": "The next album's opening riff is locked.",
+      "post.golpe.h1": "First hit",
+      "post.golpe.p1": "We locked the opening riff.",
+      "post.golpe.p2": "Dry downpicking. No chorus yet. Just the attack.",
+      "post.golpe.p3": "Unmeasured measured the moment. This one charges.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
       "date.despues": "7 Sep 2026",
       "date.unmeasured": "11 Sep 2026",
-      "date.proximo": "14 Sep 2026"
+      "date.proximo": "14 Sep 2026",
+      "date.golpe": "14 Sep 2026"
     }
   };
 
