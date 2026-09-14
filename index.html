@@ -3,19 +3,24 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Kairós — The Kairos Rock</title>
-  <meta name="description" content="Kairós. Rock crudo. El momento justo.">
+  <title data-i18n="home.title">Kairós — The Kairos Rock</title>
+  <meta name="description" content="Kairós. Rock crudo. El momento justo." data-i18n-attr="content:home.desc">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
   <header class="site-header">
-    <nav class="nav" aria-label="Principal">
+    <nav class="nav" aria-label="Principal" data-i18n-attr="aria-label:nav.aria">
       <a class="logo" href="index.html">Kairós</a>
       <ul class="nav-links">
-        <li><a href="index.html" aria-current="page">Home</a></li>
-        <li><a href="musica.html">Música</a></li>
-        <li><a href="sobre.html">Sobre</a></li>
-        <li><a href="blog/index.html">Blog</a></li>
+        <li><a href="index.html" aria-current="page" data-i18n="nav.home">Home</a></li>
+        <li><a href="musica.html" data-i18n="nav.music">Música</a></li>
+        <li><a href="sobre.html" data-i18n="nav.about">Sobre</a></li>
+        <li><a href="blog/index.html" data-i18n="nav.blog">Blog</a></li>
+        <li class="lang-switch">
+          <button type="button" data-set-lang="es" aria-label="Español">ES</button>
+          <span class="lang-sep" aria-hidden="true">/</span>
+          <button type="button" data-set-lang="en" aria-label="English">EN</button>
+        </li>
       </ul>
     </nav>
   </header>
@@ -23,26 +28,27 @@
   <main>
     <section class="hero">
       <h1>Kairós</h1>
-      <p class="tagline">El momento justo. Amplificado.</p>
+      <p class="tagline" data-i18n="home.tagline">El momento justo. Amplificado.</p>
       <div class="btn-row">
-        <a class="btn" href="musica.html">Escuchar</a>
-        <a class="btn btn-ghost" href="sobre.html">Quiénes somos</a>
+        <a class="btn" href="musica.html" data-i18n="home.listen">Escuchar</a>
+        <a class="btn btn-ghost" href="sobre.html" data-i18n="home.who">Quiénes somos</a>
       </div>
     </section>
 
-    <p class="section-title">Ahora</p>
+    <p class="section-title" data-i18n="home.now">Ahora</p>
     <div class="card">
-      <h2>Rock sin filtros</h2>
-      <p>Guitarras densas. Voces al límite. Sin pose.</p>
+      <h2 data-i18n="home.card1.title">Rock sin filtros</h2>
+      <p data-i18n="home.card1.body">Guitarras densas. Voces al límite. Sin pose.</p>
     </div>
     <div class="card">
-      <h2>Próximo álbum</h2>
-      <p>Thrash de los 80. Actualizado a Kairós. Detalles en el <a href="blog/index.html">blog</a>.</p>
+      <h2 data-i18n="home.card2.title">Próximo golpe</h2>
+      <p data-i18n="home.card2.body" data-i18n-html>Nuevos temas en camino. Sigue el <a href="blog/index.html">blog</a>.</p>
     </div>
   </main>
 
   <footer class="site-footer">
-    <p>© 2026 The Kairos Rock · <a href="https://thekairosrock.com">thekairosrock.com</a></p>
+    <p>© 2026 The Kairos Rock · <a href="https://thekairosrock.com">thekairosrock.com</a> · <a href="https://x.com/TheKairosRock" rel="noopener noreferrer" target="_blank">@TheKairosRock</a></p>
   </footer>
+  <script src="js/i18n.js" defer></script>
 </body>
 </html>
