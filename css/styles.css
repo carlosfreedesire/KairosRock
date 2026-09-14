@@ -113,6 +113,40 @@ img {
   padding-bottom: 0.1rem;
 }
 
+.lang-switch {
+  display: flex;
+  align-items: center;
+  gap: 0.28rem;
+  margin-left: 0.15rem;
+}
+
+.lang-switch button {
+  background: none;
+  border: 0;
+  padding: 0;
+  color: var(--muted);
+  font: inherit;
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.lang-switch button:hover,
+.lang-switch button.is-active {
+  color: var(--fg);
+}
+
+.lang-switch button.is-active {
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.1rem;
+}
+
+.lang-sep {
+  color: var(--border);
+  font-size: 0.8rem;
+}
+
 /* —— Main —— */
 main {
   flex: 1;
