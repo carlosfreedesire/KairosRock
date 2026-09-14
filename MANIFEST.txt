@@ -6,7 +6,9 @@ blog/index.html
 blog/kairos-no-espera.html
 blog/primer-ensayo.html
 blog/ruido-en-la-sala.html
+blog/unmeasured.html
 css/styles.css
 index.html
+js/i18n.js
 musica.html
 sobre.html

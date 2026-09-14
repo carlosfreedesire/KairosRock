@@ -4,6 +4,11 @@ Sitio estático de **Kairós / The Kairos Rock**, listo para GitHub Pages.
 
 No hay frameworks ni build step: abre los HTML en el navegador o sirve la carpeta como estáticos.
 
+## Idioma ES/EN
+
+Un solo juego de páginas. El selector **ES / EN** está a la derecha de Blog.
+Las traducciones viven en `js/i18n.js`. El idioma se guarda en `localStorage` (`kairos-lang`).
+
 ## Árbol de archivos
 
 ```

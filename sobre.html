@@ -3,43 +3,49 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Sobre Kairós — The Kairos Rock</title>
-  <meta name="description" content="Sobre el proyecto rock Kairós.">
+  <title data-i18n="about.title">Sobre Kairós — The Kairos Rock</title>
+  <meta name="description" content="Sobre el proyecto rock Kairós." data-i18n-attr="content:about.desc">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
   <header class="site-header">
-    <nav class="nav" aria-label="Principal">
+    <nav class="nav" aria-label="Principal" data-i18n-attr="aria-label:nav.aria">
       <a class="logo" href="index.html">Kairós</a>
       <ul class="nav-links">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="musica.html">Música</a></li>
-        <li><a href="sobre.html" aria-current="page">Sobre</a></li>
-        <li><a href="blog/index.html">Blog</a></li>
+        <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+        <li><a href="musica.html" data-i18n="nav.music">Música</a></li>
+        <li><a href="sobre.html" aria-current="page" data-i18n="nav.about">Sobre</a></li>
+        <li><a href="blog/index.html" data-i18n="nav.blog">Blog</a></li>
+        <li class="lang-switch">
+          <button type="button" data-set-lang="es" aria-label="Español">ES</button>
+          <span class="lang-sep" aria-hidden="true">/</span>
+          <button type="button" data-set-lang="en" aria-label="English">EN</button>
+        </li>
       </ul>
     </nav>
   </header>
 
   <main>
-    <h1 class="page-title">Sobre Kairós</h1>
-    <p class="lead">Un instante. Una canción. Un golpe.</p>
+    <h1 class="page-title" data-i18n="about.h1">Sobre Kairós</h1>
+    <p class="lead" data-i18n="about.lead">Un instante. Una canción. Un golpe.</p>
 
     <div class="card">
-      <h2>El nombre</h2>
-      <p>Kairós: el momento oportuno. No el reloj. La chispa.</p>
+      <h2 data-i18n="about.name.title">El nombre</h2>
+      <p data-i18n="about.name.body">Kairós: el momento oportuno. No el reloj. La chispa.</p>
     </div>
     <div class="card">
-      <h2>El sonido</h2>
-      <p>Rock directo. Oscuro. Sin relleno. The Kairos Rock.</p>
+      <h2 data-i18n="about.sound.title">El sonido</h2>
+      <p data-i18n="about.sound.body">Rock directo. Oscuro. Sin relleno. The Kairos Rock.</p>
     </div>
     <div class="card">
-      <h2>La idea</h2>
-      <p>Menos palabras. Más distorsión. Escena propia.</p>
+      <h2 data-i18n="about.idea.title">La idea</h2>
+      <p data-i18n="about.idea.body">Menos palabras. Más distorsión. Escena propia.</p>
     </div>
   </main>
 
   <footer class="site-footer">
     <p>© 2026 The Kairos Rock · <a href="https://thekairosrock.com">thekairosrock.com</a></p>
   </footer>
+  <script src="js/i18n.js" defer></script>
 </body>
 </html>

@@ -3,35 +3,41 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Música — Kairós</title>
-  <meta name="description" content="Escucha a Kairós en Spotify.">
+  <title data-i18n="music.title">Música — Kairós</title>
+  <meta name="description" content="Escucha a Kairós en Spotify." data-i18n-attr="content:music.desc">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
   <header class="site-header">
-    <nav class="nav" aria-label="Principal">
+    <nav class="nav" aria-label="Principal" data-i18n-attr="aria-label:nav.aria">
       <a class="logo" href="index.html">Kairós</a>
       <ul class="nav-links">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="musica.html" aria-current="page">Música</a></li>
-        <li><a href="sobre.html">Sobre</a></li>
-        <li><a href="blog/index.html">Blog</a></li>
+        <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+        <li><a href="musica.html" aria-current="page" data-i18n="nav.music">Música</a></li>
+        <li><a href="sobre.html" data-i18n="nav.about">Sobre</a></li>
+        <li><a href="blog/index.html" data-i18n="nav.blog">Blog</a></li>
+        <li class="lang-switch">
+          <button type="button" data-set-lang="es" aria-label="Español">ES</button>
+          <span class="lang-sep" aria-hidden="true">/</span>
+          <button type="button" data-set-lang="en" aria-label="English">EN</button>
+        </li>
       </ul>
     </nav>
   </header>
 
   <main>
-    <h1 class="page-title">Música</h1>
-    <p class="lead">Dale play. Sube el volumen.</p>
+    <h1 class="page-title" data-i18n="music.h1">Música</h1>
+    <p class="lead" data-i18n="music.lead">Dale play. Sube el volumen.</p>
 
     <ul class="links-list">
-      <li><a href="https://open.spotify.com/artist/0bSXSmvu6qprxgrXSMQbU4" rel="noopener noreferrer" target="_blank">Spotify — Kairós</a></li>
-      <li><a href="https://open.spotify.com/album/6pJ60aLfpPPspQzKcDJnsq" rel="noopener noreferrer" target="_blank">Unmeasured — álbum</a></li>
+      <li><a href="https://open.spotify.com/artist/0bSXSmvu6qprxgrXSMQbU4" rel="noopener noreferrer" target="_blank" data-i18n="music.spotify">Spotify — Kairós</a></li>
+      <li><a href="https://open.spotify.com/album/6pJ60aLfpPPspQzKcDJnsq" rel="noopener noreferrer" target="_blank" data-i18n="music.album">Unmeasured — álbum</a></li>
     </ul>
   </main>
 
   <footer class="site-footer">
     <p>© 2026 The Kairos Rock · <a href="https://thekairosrock.com">thekairosrock.com</a></p>
   </footer>
+  <script src="js/i18n.js" defer></script>
 </body>
 </html>
