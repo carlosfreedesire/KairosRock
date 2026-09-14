@@ -3,47 +3,52 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Blog — Kairós</title>
-  <meta name="description" content="Notas y golpes del proyecto Kairós.">
+  <title data-i18n="blog.title">Blog — Kairós</title>
+  <meta name="description" content="Notas y golpes del proyecto Kairós." data-i18n-attr="content:blog.desc">
   <link rel="stylesheet" href="../css/styles.css">
 </head>
 <body>
   <header class="site-header">
-    <nav class="nav" aria-label="Principal">
+    <nav class="nav" aria-label="Principal" data-i18n-attr="aria-label:nav.aria">
       <a class="logo" href="../index.html">Kairós</a>
       <ul class="nav-links">
-        <li><a href="../index.html">Home</a></li>
-        <li><a href="../musica.html">Música</a></li>
-        <li><a href="../sobre.html">Sobre</a></li>
-        <li><a href="index.html" aria-current="page">Blog</a></li>
+        <li><a href="../index.html" data-i18n="nav.home">Home</a></li>
+        <li><a href="../musica.html" data-i18n="nav.music">Música</a></li>
+        <li><a href="../sobre.html" data-i18n="nav.about">Sobre</a></li>
+        <li><a href="index.html" aria-current="page" data-i18n="nav.blog">Blog</a></li>
+        <li class="lang-switch">
+          <button type="button" data-set-lang="es" aria-label="Español">ES</button>
+          <span class="lang-sep" aria-hidden="true">/</span>
+          <button type="button" data-set-lang="en" aria-label="English">EN</button>
+        </li>
       </ul>
     </nav>
   </header>
 
   <main>
-    <h1 class="page-title">Blog</h1>
-    <p class="lead">Pocos posts. Mucho ruido.</p>
+    <h1 class="page-title" data-i18n="blog.h1">Blog</h1>
+    <p class="lead" data-i18n="blog.lead">Pocos posts. Mucho ruido.</p>
 
     <ul class="blog-list">
       <li>
-        <a href="primer-ensayo.html">Primer ensayo a sangre</a>
-        <span class="meta">12 ene 2026</span>
+        <a href="primer-ensayo.html" data-i18n="post.primer.h1">Primer ensayo a sangre</a>
+        <span class="meta" data-i18n="date.primer">12 ene 2026</span>
       </li>
       <li>
-        <a href="ruido-en-la-sala.html">Ruido en la sala</a>
-        <span class="meta">3 mar 2026</span>
+        <a href="ruido-en-la-sala.html" data-i18n="post.ruido.h1">Ruido en la sala</a>
+        <span class="meta" data-i18n="date.ruido">3 mar 2026</span>
       </li>
       <li>
-        <a href="kairos-no-espera.html">Kairós no espera</a>
-        <span class="meta">18 jun 2026</span>
+        <a href="kairos-no-espera.html" data-i18n="post.espera.h1">Kairós no espera</a>
+        <span class="meta" data-i18n="date.espera">18 jun 2026</span>
       </li>
       <li>
-        <a href="despues-del-ensayo.html">Después del ensayo</a>
-        <span class="meta">7 sep 2026</span>
+        <a href="despues-del-ensayo.html" data-i18n="post.despues.h1">Después del ensayo</a>
+        <span class="meta" data-i18n="date.despues">7 sep 2026</span>
       </li>
       <li>
-        <a href="unmeasured.html">Unmeasured</a>
-        <span class="meta">11 sep 2026</span>
+        <a href="unmeasured.html" data-i18n="post.unmeasured.h1">Unmeasured</a>
+        <span class="meta" data-i18n="date.unmeasured">11 sep 2026</span>
       </li>
     </ul>
   </main>
@@ -51,5 +56,6 @@
   <footer class="site-footer">
     <p>© 2026 The Kairos Rock · <a href="https://thekairosrock.com">thekairosrock.com</a></p>
   </footer>
+  <script src="../js/i18n.js" defer></script>
 </body>
 </html>
