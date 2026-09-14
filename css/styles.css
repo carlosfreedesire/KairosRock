@@ -361,6 +361,11 @@ h1.page-title {
   color: var(--accent-soft);
 }
 
+.site-footer p {
+  max-width: 36rem;
+  margin: 0 auto;
+}
+
 /* —— Soft page feel —— */
 @media (prefers-reduced-motion: no-preference) {
   main {
