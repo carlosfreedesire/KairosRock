@@ -9,5 +9,6 @@ blog/primer-ensayo.html
 blog/ruido-en-la-sala.html
 css/styles.css
 index.html
+js/i18n.js
 musica.html
 sobre.html

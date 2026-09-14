@@ -16,8 +16,8 @@
       "home.now": "Ahora",
       "home.card1.title": "Rock sin filtros",
       "home.card1.body": "Guitarras densas. Voces al límite. Sin pose.",
-      "home.card2.title": "Próximo golpe",
-      "home.card2.body": "Nuevos temas en camino. Sigue el <a href=\"blog/index.html\">blog</a>.",
+      "home.card2.title": "Próximo álbum",
+      "home.card2.body": "Thrash de los 80. Actualizado a Kairós. Detalles en el <a href=\"blog/index.html\">blog</a>.",
       "music.title": "Música — Kairós",
       "music.desc": "Escucha a Kairós en Spotify.",
       "music.h1": "Música",
@@ -66,11 +66,18 @@
       "post.unmeasured.p1": "Hoy sale el álbum. Se llama Unmeasured.",
       "post.unmeasured.p2": "Siete cortes. Sin relleno. El momento, medido a golpes.",
       "post.unmeasured.link": "Escúchalo en Spotify",
+      "post.proximo.title": "El próximo álbum — Blog Kairós",
+      "post.proximo.desc": "Kairós trabaja el próximo álbum: thrash de los 80, actualizado.",
+      "post.proximo.h1": "El próximo álbum",
+      "post.proximo.p1": "Estamos dentro del próximo álbum.",
+      "post.proximo.p2": "Thrash de los 80. Actualizado a Kairós: más filo, menos pose.",
+      "post.proximo.p3": "Hoy solo el aviso. El resto, a golpes.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
       "date.despues": "7 sep 2026",
-      "date.unmeasured": "11 sep 2026"
+      "date.unmeasured": "11 sep 2026",
+      "date.proximo": "14 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -86,8 +93,8 @@
       "home.now": "Now",
       "home.card1.title": "Rock with no filter",
       "home.card1.body": "Dense guitars. Voices at the edge. No pose.",
-      "home.card2.title": "Next hit",
-      "home.card2.body": "New tracks on the way. Follow the <a href=\"blog/index.html\">blog</a>.",
+      "home.card2.title": "Next album",
+      "home.card2.body": "80s thrash. Updated for Kairós. Details on the <a href=\"blog/index.html\">blog</a>.",
       "music.title": "Music — Kairós",
       "music.desc": "Listen to Kairós on Spotify.",
       "music.h1": "Music",
@@ -136,11 +143,18 @@
       "post.unmeasured.p1": "The album is out today. It’s called Unmeasured.",
       "post.unmeasured.p2": "Seven tracks. No filler. The moment, measured in hits.",
       "post.unmeasured.link": "Listen on Spotify",
+      "post.proximo.title": "The next album — Kairós Blog",
+      "post.proximo.desc": "Kairós is working the next album: 80s thrash, updated.",
+      "post.proximo.h1": "The next album",
+      "post.proximo.p1": "We're inside the next album.",
+      "post.proximo.p2": "80s thrash. Updated for Kairós: more edge, less pose.",
+      "post.proximo.p3": "Today just the signal. The rest, hit by hit.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
       "date.despues": "7 Sep 2026",
-      "date.unmeasured": "11 Sep 2026"
+      "date.unmeasured": "11 Sep 2026",
+      "date.proximo": "14 Sep 2026"
     }
   };
 
