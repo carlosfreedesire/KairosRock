@@ -78,13 +78,20 @@
       "post.golpe.p1": "Encajamos el riff de apertura.",
       "post.golpe.p2": "Downpicking seco. Sin estribillo. Solo el ataque.",
       "post.golpe.p3": "Unmeasured midió el momento. Esto carga.",
+      "post.bateria.title": "La batería — Blog Kairós",
+      "post.bateria.desc": "La batería contesta el riff de apertura.",
+      "post.bateria.h1": "La batería",
+      "post.bateria.p1": "La batería entra detrás del riff.",
+      "post.bateria.p2": "Stomp seco. Sin click. El 2 suena en la sala.",
+      "post.bateria.p3": "Todavía no hay estribillo. Solo el golpe que contesta.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
       "date.despues": "7 sep 2026",
       "date.unmeasured": "11 sep 2026",
       "date.proximo": "14 sep 2026",
-      "date.golpe": "14 sep 2026"
+      "date.golpe": "14 sep 2026",
+      "date.bateria": "15 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -162,13 +169,20 @@
       "post.golpe.p1": "We locked the opening riff.",
       "post.golpe.p2": "Dry downpicking. No chorus yet. Just the attack.",
       "post.golpe.p3": "Unmeasured measured the moment. This one charges.",
+      "post.bateria.title": "The drums — Kairós Blog",
+      "post.bateria.desc": "The drums answer the opening riff.",
+      "post.bateria.h1": "The drums",
+      "post.bateria.p1": "The drums come in behind the riff.",
+      "post.bateria.p2": "Dry stomp. No click. The 2 hits in the room.",
+      "post.bateria.p3": "Still no chorus. Just the hit that answers.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
       "date.despues": "7 Sep 2026",
       "date.unmeasured": "11 Sep 2026",
       "date.proximo": "14 Sep 2026",
-      "date.golpe": "14 Sep 2026"
+      "date.golpe": "14 Sep 2026",
+      "date.bateria": "15 Sep 2026"
     }
   };
 
