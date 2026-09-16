@@ -84,6 +84,12 @@
       "post.bateria.p1": "La batería entra detrás del riff.",
       "post.bateria.p2": "Stomp seco. Sin click. El 2 suena en la sala.",
       "post.bateria.p3": "Todavía no hay estribillo. Solo el golpe que contesta.",
+      "post.bajo.title": "El bajo — Blog Kairós",
+      "post.bajo.desc": "El bajo se encaja bajo el riff y el stomp.",
+      "post.bajo.h1": "El bajo",
+      "post.bajo.p1": "El bajo se encaja bajo el riff y el stomp.",
+      "post.bajo.p2": "Grueso. Un poco tarde. Casi sin ruido de púa.",
+      "post.bajo.p3": "Sostiene el suelo para que las guitarras sigan secas. Todavía no hay estribillo.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -91,7 +97,8 @@
       "date.unmeasured": "11 sep 2026",
       "date.proximo": "14 sep 2026",
       "date.golpe": "14 sep 2026",
-      "date.bateria": "15 sep 2026"
+      "date.bateria": "15 sep 2026",
+      "date.bajo": "16 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -175,6 +182,12 @@
       "post.bateria.p1": "The drums come in behind the riff.",
       "post.bateria.p2": "Dry stomp. No click. The 2 hits in the room.",
       "post.bateria.p3": "Still no chorus. Just the hit that answers.",
+      "post.bajo.title": "The bass — Kairós Blog",
+      "post.bajo.desc": "The bass locks under the riff and the stomp.",
+      "post.bajo.h1": "The bass",
+      "post.bajo.p1": "The bass locks under the riff and the stomp.",
+      "post.bajo.p2": "Thick. Slightly late. Almost no pick noise.",
+      "post.bajo.p3": "It holds the floor so the guitars stay dry. Still no chorus.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -182,7 +195,8 @@
       "date.unmeasured": "11 Sep 2026",
       "date.proximo": "14 Sep 2026",
       "date.golpe": "14 Sep 2026",
-      "date.bateria": "15 Sep 2026"
+      "date.bateria": "15 Sep 2026",
+      "date.bajo": "16 Sep 2026"
     }
   };
 
