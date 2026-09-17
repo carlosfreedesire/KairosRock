@@ -90,6 +90,12 @@
       "post.bajo.p1": "El bajo se encaja bajo el riff y el stomp.",
       "post.bajo.p2": "Grueso. Un poco tarde. Casi sin ruido de púa.",
       "post.bajo.p3": "Sostiene el suelo para que las guitarras sigan secas. Todavía no hay estribillo.",
+      "post.dos.title": "Dos guitarras — Blog Kairós",
+      "post.dos.desc": "La segunda guitarra se encaja encima del riff.",
+      "post.dos.h1": "Dos guitarras",
+      "post.dos.p1": "Encajan la segunda guitarra encima del riff.",
+      "post.dos.p2": "Misma púa. Misma cara. Un poco más ancha.",
+      "post.dos.p3": "Sin lead. Sin estribillo. Solo el ataque en dos lados.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -98,7 +104,8 @@
       "date.proximo": "14 sep 2026",
       "date.golpe": "14 sep 2026",
       "date.bateria": "15 sep 2026",
-      "date.bajo": "16 sep 2026"
+      "date.bajo": "16 sep 2026",
+      "date.dos": "17 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -188,6 +195,12 @@
       "post.bajo.p1": "The bass locks under the riff and the stomp.",
       "post.bajo.p2": "Thick. Slightly late. Almost no pick noise.",
       "post.bajo.p3": "It holds the floor so the guitars stay dry. Still no chorus.",
+      "post.dos.title": "Two guitars — Kairós Blog",
+      "post.dos.desc": "The second guitar locks on top of the riff.",
+      "post.dos.h1": "Two guitars",
+      "post.dos.p1": "The second guitar locks on top of the riff.",
+      "post.dos.p2": "Same pick. Same face. A little wider.",
+      "post.dos.p3": "No lead. No chorus. Just the attack on both sides.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -196,7 +209,8 @@
       "date.proximo": "14 Sep 2026",
       "date.golpe": "14 Sep 2026",
       "date.bateria": "15 Sep 2026",
-      "date.bajo": "16 Sep 2026"
+      "date.bajo": "16 Sep 2026",
+      "date.dos": "17 Sep 2026"
     }
   };
 
