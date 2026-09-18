@@ -96,6 +96,12 @@
       "post.dos.p1": "Encajan la segunda guitarra encima del riff.",
       "post.dos.p2": "Misma púa. Misma cara. Un poco más ancha.",
       "post.dos.p3": "Sin lead. Sin estribillo. Solo el ataque en dos lados.",
+      "post.voz.title": "La voz — Blog Kairós",
+      "post.voz.desc": "La voz entra seca encima del riff.",
+      "post.voz.h1": "La voz",
+      "post.voz.p1": "Después del muro, entra la voz.",
+      "post.voz.p2": "Mic cerca. Poca sala. Ladrido con más filo, menos pose.",
+      "post.voz.p3": "Va encima del riff. No flota. Todavía no hay estribillo.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -105,7 +111,8 @@
       "date.golpe": "14 sep 2026",
       "date.bateria": "15 sep 2026",
       "date.bajo": "16 sep 2026",
-      "date.dos": "17 sep 2026"
+      "date.dos": "17 sep 2026",
+      "date.voz": "18 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -201,6 +208,12 @@
       "post.dos.p1": "The second guitar locks on top of the riff.",
       "post.dos.p2": "Same pick. Same face. A little wider.",
       "post.dos.p3": "No lead. No chorus. Just the attack on both sides.",
+      "post.voz.title": "The voice — Kairós Blog",
+      "post.voz.desc": "A dry vocal rides on the riff.",
+      "post.voz.h1": "The voice",
+      "post.voz.p1": "After the wall, the vocal comes in.",
+      "post.voz.p2": "Close mic. Little room. A bark with more edge, less pose.",
+      "post.voz.p3": "It rides on the riff. Doesn't float. Still no chorus.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -210,7 +223,8 @@
       "date.golpe": "14 Sep 2026",
       "date.bateria": "15 Sep 2026",
       "date.bajo": "16 Sep 2026",
-      "date.dos": "17 Sep 2026"
+      "date.dos": "17 Sep 2026",
+      "date.voz": "18 Sep 2026"
     }
   };
 
