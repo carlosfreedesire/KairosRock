@@ -102,6 +102,12 @@
       "post.voz.p1": "Después del muro, entra la voz.",
       "post.voz.p2": "Mic cerca. Poca sala. Ladrido con más filo, menos pose.",
       "post.voz.p3": "Va encima del riff. No flota. Todavía no hay estribillo.",
+      "post.verso.title": "El verso — Blog Kairós",
+      "post.verso.desc": "La voz se queda en el verso, encima del riff.",
+      "post.verso.h1": "El verso",
+      "post.verso.p1": "La voz no sube. Se queda en el verso.",
+      "post.verso.p2": "Frases cortas. Secas. Encima del riff, no encima del muro.",
+      "post.verso.p3": "Todavía no hay estribillo. Ni título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -112,7 +118,8 @@
       "date.bateria": "15 sep 2026",
       "date.bajo": "16 sep 2026",
       "date.dos": "17 sep 2026",
-      "date.voz": "18 sep 2026"
+      "date.voz": "18 sep 2026",
+      "date.verso": "19 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -214,6 +221,12 @@
       "post.voz.p1": "After the wall, the vocal comes in.",
       "post.voz.p2": "Close mic. Little room. A bark with more edge, less pose.",
       "post.voz.p3": "It rides on the riff. Doesn't float. Still no chorus.",
+      "post.verso.title": "The verse — Kairós Blog",
+      "post.verso.desc": "The vocal stays in the verse, on the riff.",
+      "post.verso.h1": "The verse",
+      "post.verso.p1": "The vocal doesn't lift. It stays in the verse.",
+      "post.verso.p2": "Short lines. Dry. On the riff, not over the wall.",
+      "post.verso.p3": "Still no chorus. No title yet.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -224,7 +237,8 @@
       "date.bateria": "15 Sep 2026",
       "date.bajo": "16 Sep 2026",
       "date.dos": "17 Sep 2026",
-      "date.voz": "18 Sep 2026"
+      "date.voz": "18 Sep 2026",
+      "date.verso": "19 Sep 2026"
     }
   };
 
