@@ -108,6 +108,12 @@
       "post.verso.p1": "La voz no sube. Se queda en el verso.",
       "post.verso.p2": "Frases cortas. Secas. Encima del riff, no encima del muro.",
       "post.verso.p3": "Todavía no hay estribillo. Ni título.",
+      "post.estribillo.title": "El estribillo — Blog Kairós",
+      "post.estribillo.desc": "El estribillo aparece una vez y vuelve al muro.",
+      "post.estribillo.h1": "El estribillo",
+      "post.estribillo.p1": "El estribillo entra. Una vez.",
+      "post.estribillo.p2": "La voz sube un palmo. El riff se abre. Luego vuelve al muro.",
+      "post.estribillo.p3": "Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -119,7 +125,8 @@
       "date.bajo": "16 sep 2026",
       "date.dos": "17 sep 2026",
       "date.voz": "18 sep 2026",
-      "date.verso": "19 sep 2026"
+      "date.verso": "19 sep 2026",
+      "date.estribillo": "20 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -227,6 +234,12 @@
       "post.verso.p1": "The vocal doesn't lift. It stays in the verse.",
       "post.verso.p2": "Short lines. Dry. On the riff, not over the wall.",
       "post.verso.p3": "Still no chorus. No title yet.",
+      "post.estribillo.title": "The chorus — Kairós Blog",
+      "post.estribillo.desc": "The chorus shows once, then back to the wall.",
+      "post.estribillo.h1": "The chorus",
+      "post.estribillo.p1": "The chorus comes in. Once.",
+      "post.estribillo.p2": "The vocal lifts a hand. The riff opens. Then back to the wall.",
+      "post.estribillo.p3": "Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -238,7 +251,8 @@
       "date.bajo": "16 Sep 2026",
       "date.dos": "17 Sep 2026",
       "date.voz": "18 Sep 2026",
-      "date.verso": "19 Sep 2026"
+      "date.verso": "19 Sep 2026",
+      "date.estribillo": "20 Sep 2026"
     }
   };
 
