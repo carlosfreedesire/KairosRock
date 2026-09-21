@@ -114,6 +114,12 @@
       "post.estribillo.p1": "El estribillo entra. Una vez.",
       "post.estribillo.p2": "La voz sube un palmo. El riff se abre. Luego vuelve al muro.",
       "post.estribillo.p3": "Todavía no hay título.",
+      "post.otra.title": "Otra vez — Blog Kairós",
+      "post.otra.desc": "El estribillo vuelve y esta vez se queda.",
+      "post.otra.h1": "Otra vez",
+      "post.otra.p1": "El muro aguanta unos compases. Solo riff.",
+      "post.otra.p2": "El estribillo vuelve. Misma voz alzada. El riff se queda abierto.",
+      "post.otra.p3": "Esta vez no vuelve al muro. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -126,7 +132,8 @@
       "date.dos": "17 sep 2026",
       "date.voz": "18 sep 2026",
       "date.verso": "19 sep 2026",
-      "date.estribillo": "20 sep 2026"
+      "date.estribillo": "20 sep 2026",
+      "date.otra": "21 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -240,6 +247,12 @@
       "post.estribillo.p1": "The chorus comes in. Once.",
       "post.estribillo.p2": "The vocal lifts a hand. The riff opens. Then back to the wall.",
       "post.estribillo.p3": "Still no title.",
+      "post.otra.title": "Again — Kairós Blog",
+      "post.otra.desc": "The chorus comes back — and this time it stays.",
+      "post.otra.h1": "Again",
+      "post.otra.p1": "The wall holds a few bars. Just riff.",
+      "post.otra.p2": "The chorus returns. Same lifted vocal. The riff stays open.",
+      "post.otra.p3": "This time it doesn't go back to the wall. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -252,7 +265,8 @@
       "date.dos": "17 Sep 2026",
       "date.voz": "18 Sep 2026",
       "date.verso": "19 Sep 2026",
-      "date.estribillo": "20 Sep 2026"
+      "date.estribillo": "20 Sep 2026",
+      "date.otra": "21 Sep 2026"
     }
   };
 
