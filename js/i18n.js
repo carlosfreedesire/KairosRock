@@ -120,6 +120,12 @@
       "post.otra.p1": "El muro aguanta unos compases. Solo riff.",
       "post.otra.p2": "El estribillo vuelve. Misma voz alzada. El riff se queda abierto.",
       "post.otra.p3": "Esta vez no vuelve al muro. Todavía no hay título.",
+      "post.solo.title": "El solo — Blog Kairós",
+      "post.solo.desc": "Un lead corto corta el estribillo abierto.",
+      "post.solo.h1": "El solo",
+      "post.solo.p1": "El estribillo abierto aguanta. Entra el lead.",
+      "post.solo.p2": "Corto. Seco. Sin tapping. Va encima del riff abierto.",
+      "post.solo.p3": "No es un show. Solo filo. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -133,7 +139,8 @@
       "date.voz": "18 sep 2026",
       "date.verso": "19 sep 2026",
       "date.estribillo": "20 sep 2026",
-      "date.otra": "21 sep 2026"
+      "date.otra": "21 sep 2026",
+      "date.solo": "22 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -253,6 +260,12 @@
       "post.otra.p1": "The wall holds a few bars. Just riff.",
       "post.otra.p2": "The chorus returns. Same lifted vocal. The riff stays open.",
       "post.otra.p3": "This time it doesn't go back to the wall. Still no title.",
+      "post.solo.title": "The solo — Kairós Blog",
+      "post.solo.desc": "A short lead cuts through the open chorus.",
+      "post.solo.h1": "The solo",
+      "post.solo.p1": "The open chorus holds. The lead comes in.",
+      "post.solo.p2": "Short. Dry. No tapping. It rides the open riff.",
+      "post.solo.p3": "Not a show. Just edge. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -266,7 +279,8 @@
       "date.voz": "18 Sep 2026",
       "date.verso": "19 Sep 2026",
       "date.estribillo": "20 Sep 2026",
-      "date.otra": "21 Sep 2026"
+      "date.otra": "21 Sep 2026",
+      "date.solo": "22 Sep 2026"
     }
   };
 
