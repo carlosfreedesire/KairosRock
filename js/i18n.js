@@ -126,6 +126,12 @@
       "post.solo.p1": "El estribillo abierto aguanta. Entra el lead.",
       "post.solo.p2": "Corto. Seco. Sin tapping. Va encima del riff abierto.",
       "post.solo.p3": "No es un show. Solo filo. Todavía no hay título.",
+      "post.corte.title": "El corte — Blog Kairós",
+      "post.corte.desc": "El lead se corta a mitad de frase. Sin climax.",
+      "post.corte.h1": "El corte",
+      "post.corte.p1": "El lead no sube. Se corta.",
+      "post.corte.p2": "A mitad de frase. Sin climax. El estribillo abierto sigue.",
+      "post.corte.p3": "El muro de ritmo vuelve por debajo. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -140,7 +146,8 @@
       "date.verso": "19 sep 2026",
       "date.estribillo": "20 sep 2026",
       "date.otra": "21 sep 2026",
-      "date.solo": "22 sep 2026"
+      "date.solo": "22 sep 2026",
+      "date.corte": "23 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -266,6 +273,12 @@
       "post.solo.p1": "The open chorus holds. The lead comes in.",
       "post.solo.p2": "Short. Dry. No tapping. It rides the open riff.",
       "post.solo.p3": "Not a show. Just edge. Still no title.",
+      "post.corte.title": "The cut — Kairós Blog",
+      "post.corte.desc": "The lead cuts mid-phrase. No climax.",
+      "post.corte.h1": "The cut",
+      "post.corte.p1": "The lead doesn't climb. It cuts.",
+      "post.corte.p2": "Mid-phrase. No climax. The open chorus keeps going.",
+      "post.corte.p3": "The rhythm wall comes back underneath. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -280,7 +293,8 @@
       "date.verso": "19 Sep 2026",
       "date.estribillo": "20 Sep 2026",
       "date.otra": "21 Sep 2026",
-      "date.solo": "22 Sep 2026"
+      "date.solo": "22 Sep 2026",
+      "date.corte": "23 Sep 2026"
     }
   };
 
