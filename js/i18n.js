@@ -132,6 +132,12 @@
       "post.corte.p1": "El lead no sube. Se corta.",
       "post.corte.p2": "A mitad de frase. Sin climax. El estribillo abierto sigue.",
       "post.corte.p3": "El muro de ritmo vuelve por debajo. Todavía no hay título.",
+      "post.hueco.title": "El hueco — Blog Kairós",
+      "post.hueco.desc": "Queda un hueco donde el lead debió caer. El ritmo lo tapa.",
+      "post.hueco.h1": "El hueco",
+      "post.hueco.p1": "Queda un hueco. Donde el lead debió caer.",
+      "post.hueco.p2": "Los dos ritmos lo tapan. Misma púa. Sin contestar la frase.",
+      "post.hueco.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -147,7 +153,8 @@
       "date.estribillo": "20 sep 2026",
       "date.otra": "21 sep 2026",
       "date.solo": "22 sep 2026",
-      "date.corte": "23 sep 2026"
+      "date.corte": "23 sep 2026",
+      "date.hueco": "24 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -279,6 +286,12 @@
       "post.corte.p1": "The lead doesn't climb. It cuts.",
       "post.corte.p2": "Mid-phrase. No climax. The open chorus keeps going.",
       "post.corte.p3": "The rhythm wall comes back underneath. Still no title.",
+      "post.hueco.title": "The hole — Kairós Blog",
+      "post.hueco.desc": "A hole where the lead should have landed. The rhythm fills it.",
+      "post.hueco.h1": "The hole",
+      "post.hueco.p1": "There's a hole. Where the lead should have landed.",
+      "post.hueco.p2": "Both rhythms fill it. Same pick. No answer to the phrase.",
+      "post.hueco.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -294,7 +307,8 @@
       "date.estribillo": "20 Sep 2026",
       "date.otra": "21 Sep 2026",
       "date.solo": "22 Sep 2026",
-      "date.corte": "23 Sep 2026"
+      "date.corte": "23 Sep 2026",
+      "date.hueco": "24 Sep 2026"
     }
   };
 
