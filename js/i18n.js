@@ -138,6 +138,12 @@
       "post.hueco.p1": "Queda un hueco. Donde el lead debió caer.",
       "post.hueco.p2": "Los dos ritmos lo tapan. Misma púa. Sin contestar la frase.",
       "post.hueco.p3": "El estribillo abierto sigue. Todavía no hay título.",
+      "post.bombo.title": "El bombo — Blog Kairós",
+      "post.bombo.desc": "El bombo cae en el hueco donde se cortó el lead.",
+      "post.bombo.h1": "El bombo",
+      "post.bombo.p1": "El bombo cae en el hueco.",
+      "post.bombo.p2": "Donde se cortó el lead. Un golpe. Seco.",
+      "post.bombo.p3": "No contesta la frase. Solo la marca. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -154,7 +160,8 @@
       "date.otra": "21 sep 2026",
       "date.solo": "22 sep 2026",
       "date.corte": "23 sep 2026",
-      "date.hueco": "24 sep 2026"
+      "date.hueco": "24 sep 2026",
+      "date.bombo": "25 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -292,6 +299,12 @@
       "post.hueco.p1": "There's a hole. Where the lead should have landed.",
       "post.hueco.p2": "Both rhythms fill it. Same pick. No answer to the phrase.",
       "post.hueco.p3": "The open chorus keeps going. Still no title.",
+      "post.bombo.title": "The kick — Kairós Blog",
+      "post.bombo.desc": "The kick drops into the hole where the lead cut.",
+      "post.bombo.h1": "The kick",
+      "post.bombo.p1": "The kick drops into the hole.",
+      "post.bombo.p2": "Where the lead cut. One hit. Dry.",
+      "post.bombo.p3": "Doesn't answer the phrase. Just marks it. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -308,7 +321,8 @@
       "date.otra": "21 Sep 2026",
       "date.solo": "22 Sep 2026",
       "date.corte": "23 Sep 2026",
-      "date.hueco": "24 Sep 2026"
+      "date.hueco": "24 Sep 2026",
+      "date.bombo": "25 Sep 2026"
     }
   };
 
