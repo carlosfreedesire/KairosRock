@@ -144,6 +144,12 @@
       "post.bombo.p1": "El bombo cae en el hueco.",
       "post.bombo.p2": "Donde se cortó el lead. Un golpe. Seco.",
       "post.bombo.p3": "No contesta la frase. Solo la marca. Todavía no hay título.",
+      "post.eco.title": "El eco — Blog Kairós",
+      "post.eco.desc": "El eco del bombo queda en el hueco. Un latido seco.",
+      "post.eco.h1": "El eco",
+      "post.eco.p1": "El eco del bombo queda en el hueco.",
+      "post.eco.p2": "Un latido. Seco. Luego lo traga el estribillo abierto.",
+      "post.eco.p3": "Tampoco contesta la frase. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -161,7 +167,8 @@
       "date.solo": "22 sep 2026",
       "date.corte": "23 sep 2026",
       "date.hueco": "24 sep 2026",
-      "date.bombo": "25 sep 2026"
+      "date.bombo": "25 sep 2026",
+      "date.eco": "26 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -305,6 +312,12 @@
       "post.bombo.p1": "The kick drops into the hole.",
       "post.bombo.p2": "Where the lead cut. One hit. Dry.",
       "post.bombo.p3": "Doesn't answer the phrase. Just marks it. Still no title.",
+      "post.eco.title": "The echo — Kairós Blog",
+      "post.eco.desc": "The kick's echo hangs in the hole. One dry beat.",
+      "post.eco.h1": "The echo",
+      "post.eco.p1": "The kick's echo hangs in the hole.",
+      "post.eco.p2": "One beat. Dry. Then the open chorus swallows it.",
+      "post.eco.p3": "Doesn't answer the phrase either. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -322,7 +335,8 @@
       "date.solo": "22 Sep 2026",
       "date.corte": "23 Sep 2026",
       "date.hueco": "24 Sep 2026",
-      "date.bombo": "25 Sep 2026"
+      "date.bombo": "25 Sep 2026",
+      "date.eco": "26 Sep 2026"
     }
   };
 
