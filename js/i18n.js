@@ -150,6 +150,12 @@
       "post.eco.p1": "El eco del bombo queda en el hueco.",
       "post.eco.p2": "Un latido. Seco. Luego lo traga el estribillo abierto.",
       "post.eco.p3": "Tampoco contesta la frase. Todavía no hay título.",
+      "post.intento.title": "El intento — Blog Kairós",
+      "post.intento.desc": "Después del eco, la lead intenta la misma frase cortada.",
+      "post.intento.h1": "El intento",
+      "post.intento.p1": "Después del eco, la lead vuelve.",
+      "post.intento.p2": "Misma frase. Mismo corte. El estribillo abierto no contesta.",
+      "post.intento.p3": "Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -168,7 +174,8 @@
       "date.corte": "23 sep 2026",
       "date.hueco": "24 sep 2026",
       "date.bombo": "25 sep 2026",
-      "date.eco": "26 sep 2026"
+      "date.eco": "26 sep 2026",
+      "date.intento": "27 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -318,6 +325,12 @@
       "post.eco.p1": "The kick's echo hangs in the hole.",
       "post.eco.p2": "One beat. Dry. Then the open chorus swallows it.",
       "post.eco.p3": "Doesn't answer the phrase either. Still no title.",
+      "post.intento.title": "The attempt — Kairós Blog",
+      "post.intento.desc": "After the echo, the lead tries the same cut phrase again.",
+      "post.intento.h1": "The attempt",
+      "post.intento.p1": "After the echo, the lead comes back.",
+      "post.intento.p2": "Same phrase. Same cut. The open chorus does not answer.",
+      "post.intento.p3": "Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -336,7 +349,8 @@
       "date.corte": "23 Sep 2026",
       "date.hueco": "24 Sep 2026",
       "date.bombo": "25 Sep 2026",
-      "date.eco": "26 Sep 2026"
+      "date.eco": "26 Sep 2026",
+      "date.intento": "27 Sep 2026"
     }
   };
 
