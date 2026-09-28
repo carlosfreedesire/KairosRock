@@ -156,6 +156,12 @@
       "post.intento.p1": "Después del eco, la lead vuelve.",
       "post.intento.p2": "Misma frase. Mismo corte. El estribillo abierto no contesta.",
       "post.intento.p3": "Todavía no hay título.",
+      "post.desfase.title": "El desfase — Blog Kairós",
+      "post.desfase.desc": "Bajo el segundo corte, los ritmos se desfasan un golpe.",
+      "post.desfase.h1": "El desfase",
+      "post.desfase.p1": "Bajo el segundo corte, los ritmos se desfasan.",
+      "post.desfase.p2": "Un golpe de púa. Luego se traban otra vez. Sin contestar la lead.",
+      "post.desfase.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -175,7 +181,8 @@
       "date.hueco": "24 sep 2026",
       "date.bombo": "25 sep 2026",
       "date.eco": "26 sep 2026",
-      "date.intento": "27 sep 2026"
+      "date.intento": "27 sep 2026",
+      "date.desfase": "28 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -331,6 +338,12 @@
       "post.intento.p1": "After the echo, the lead comes back.",
       "post.intento.p2": "Same phrase. Same cut. The open chorus does not answer.",
       "post.intento.p3": "Still no title.",
+      "post.desfase.title": "The slip — Kairós Blog",
+      "post.desfase.desc": "Under the second cut, the rhythms slip out of sync for one stroke.",
+      "post.desfase.h1": "The slip",
+      "post.desfase.p1": "Under the second cut, the rhythms slip out of sync.",
+      "post.desfase.p2": "One pick stroke. Then they lock again. Without answering the lead.",
+      "post.desfase.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -350,7 +363,8 @@
       "date.hueco": "24 Sep 2026",
       "date.bombo": "25 Sep 2026",
       "date.eco": "26 Sep 2026",
-      "date.intento": "27 Sep 2026"
+      "date.intento": "27 Sep 2026",
+      "date.desfase": "28 Sep 2026"
     }
   };
 
