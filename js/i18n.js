@@ -162,6 +162,12 @@
       "post.desfase.p1": "Bajo el segundo corte, los ritmos se desfasan.",
       "post.desfase.p2": "Un golpe de púa. Luego se traban otra vez. Sin contestar la lead.",
       "post.desfase.p3": "El estribillo abierto sigue. Todavía no hay título.",
+      "post.ancla.title": "El ancla — Blog Kairós",
+      "post.ancla.desc": "Tras el desfase, el bajo sostiene una nota grave.",
+      "post.ancla.h1": "El ancla",
+      "post.ancla.p1": "Tras el desfase, los ritmos se traban otra vez.",
+      "post.ancla.p2": "El bajo sostiene una nota grave. Todo el compás. Sin contestar la lead.",
+      "post.ancla.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -182,7 +188,8 @@
       "date.bombo": "25 sep 2026",
       "date.eco": "26 sep 2026",
       "date.intento": "27 sep 2026",
-      "date.desfase": "28 sep 2026"
+      "date.desfase": "28 sep 2026",
+      "date.ancla": "29 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -344,6 +351,12 @@
       "post.desfase.p1": "Under the second cut, the rhythms slip out of sync.",
       "post.desfase.p2": "One pick stroke. Then they lock again. Without answering the lead.",
       "post.desfase.p3": "The open chorus keeps going. Still no title.",
+      "post.ancla.title": "The anchor — Kairós Blog",
+      "post.ancla.desc": "After the slip, the bass holds one low note.",
+      "post.ancla.h1": "The anchor",
+      "post.ancla.p1": "After the slip, the rhythms lock again.",
+      "post.ancla.p2": "The bass holds one low note. The whole bar. Without answering the lead.",
+      "post.ancla.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -364,7 +377,8 @@
       "date.bombo": "25 Sep 2026",
       "date.eco": "26 Sep 2026",
       "date.intento": "27 Sep 2026",
-      "date.desfase": "28 Sep 2026"
+      "date.desfase": "28 Sep 2026",
+      "date.ancla": "29 Sep 2026"
     }
   };
 
