@@ -168,6 +168,12 @@
       "post.ancla.p1": "Tras el desfase, los ritmos se traban otra vez.",
       "post.ancla.p2": "El bajo sostiene una nota grave. Todo el compás. Sin contestar la lead.",
       "post.ancla.p3": "El estribillo abierto sigue. Todavía no hay título.",
+      "post.ride.title": "El ride — Blog Kairós",
+      "post.ride.desc": "Durante el ancla, el ride se calla.",
+      "post.ride.h1": "El ride",
+      "post.ride.p1": "Mientras el bajo sostiene esa nota grave.",
+      "post.ride.p2": "El ride se calla. Solo el bombo marca bajo el sustain. Sin contestar la lead.",
+      "post.ride.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -189,7 +195,8 @@
       "date.eco": "26 sep 2026",
       "date.intento": "27 sep 2026",
       "date.desfase": "28 sep 2026",
-      "date.ancla": "29 sep 2026"
+      "date.ancla": "29 sep 2026",
+      "date.ride": "30 sep 2026"
     },
     en: {
       "nav.home": "Home",
@@ -357,6 +364,12 @@
       "post.ancla.p1": "After the slip, the rhythms lock again.",
       "post.ancla.p2": "The bass holds one low note. The whole bar. Without answering the lead.",
       "post.ancla.p3": "The open chorus keeps going. Still no title.",
+      "post.ride.title": "The ride — Kairós Blog",
+      "post.ride.desc": "During the anchor, the ride goes silent.",
+      "post.ride.h1": "The ride",
+      "post.ride.p1": "While the bass holds that low note.",
+      "post.ride.p2": "The ride goes silent. Only the kick keeps the grid under the sustain. Without answering the lead.",
+      "post.ride.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -378,7 +391,8 @@
       "date.eco": "26 Sep 2026",
       "date.intento": "27 Sep 2026",
       "date.desfase": "28 Sep 2026",
-      "date.ancla": "29 Sep 2026"
+      "date.ancla": "29 Sep 2026",
+      "date.ride": "30 Sep 2026"
     }
   };
 
