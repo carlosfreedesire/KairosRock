@@ -174,6 +174,12 @@
       "post.ride.p1": "Mientras el bajo sostiene esa nota grave.",
       "post.ride.p2": "El ride se calla. Solo el bombo marca bajo el sustain. Sin contestar la lead.",
       "post.ride.p3": "El estribillo abierto sigue. Todavía no hay título.",
+      "post.charleston.title": "El charleston — Blog Kairós",
+      "post.charleston.desc": "Con el ride en silencio, el charleston marca seco.",
+      "post.charleston.h1": "El charleston",
+      "post.charleston.p1": "Con el ride callado bajo el sustain.",
+      "post.charleston.p2": "El charleston marca seco. Solo. El bombo sigue la grilla. Sin contestar la lead.",
+      "post.charleston.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -196,7 +202,8 @@
       "date.intento": "27 sep 2026",
       "date.desfase": "28 sep 2026",
       "date.ancla": "29 sep 2026",
-      "date.ride": "30 sep 2026"
+      "date.ride": "30 sep 2026",
+      "date.charleston": "1 oct 2026"
     },
     en: {
       "nav.home": "Home",
@@ -370,6 +377,12 @@
       "post.ride.p1": "While the bass holds that low note.",
       "post.ride.p2": "The ride goes silent. Only the kick keeps the grid under the sustain. Without answering the lead.",
       "post.ride.p3": "The open chorus keeps going. Still no title.",
+      "post.charleston.title": "The hi-hat — Kairós Blog",
+      "post.charleston.desc": "With the ride silent, the hi-hat ticks dry.",
+      "post.charleston.h1": "The hi-hat",
+      "post.charleston.p1": "With the ride silent under the sustain.",
+      "post.charleston.p2": "The hi-hat ticks dry. Alone. The kick keeps the grid. Without answering the lead.",
+      "post.charleston.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -392,7 +405,8 @@
       "date.intento": "27 Sep 2026",
       "date.desfase": "28 Sep 2026",
       "date.ancla": "29 Sep 2026",
-      "date.ride": "30 Sep 2026"
+      "date.ride": "30 Sep 2026",
+      "date.charleston": "1 Oct 2026"
     }
   };
 
