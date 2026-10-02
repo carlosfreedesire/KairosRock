@@ -180,6 +180,12 @@
       "post.charleston.p1": "Con el ride callado bajo el sustain.",
       "post.charleston.p2": "El charleston marca seco. Solo. El bombo sigue la grilla. Sin contestar la lead.",
       "post.charleston.p3": "El estribillo abierto sigue. Todavía no hay título.",
+      "post.fantasma.title": "El fantasma — Blog Kairós",
+      "post.fantasma.desc": "Tras el charleston seco, un fantasma de caja casi cae.",
+      "post.fantasma.h1": "El fantasma",
+      "post.fantasma.p1": "Con el charleston seco bajo el ride callado.",
+      "post.fantasma.p2": "Un fantasma de caja casi cae. Casi. No llega. Sin contestar la lead.",
+      "post.fantasma.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -203,7 +209,8 @@
       "date.desfase": "28 sep 2026",
       "date.ancla": "29 sep 2026",
       "date.ride": "30 sep 2026",
-      "date.charleston": "1 oct 2026"
+      "date.charleston": "1 oct 2026",
+      "date.fantasma": "2 oct 2026"
     },
     en: {
       "nav.home": "Home",
@@ -383,6 +390,12 @@
       "post.charleston.p1": "With the ride silent under the sustain.",
       "post.charleston.p2": "The hi-hat ticks dry. Alone. The kick keeps the grid. Without answering the lead.",
       "post.charleston.p3": "The open chorus keeps going. Still no title.",
+      "post.fantasma.title": "The ghost — Kairós Blog",
+      "post.fantasma.desc": "After the dry hi-hat, a ghost snare almost lands.",
+      "post.fantasma.h1": "The ghost",
+      "post.fantasma.p1": "With the dry hi-hat under the silent ride.",
+      "post.fantasma.p2": "A ghost snare almost lands. Almost. It doesn't. Without answering the lead.",
+      "post.fantasma.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -406,7 +419,8 @@
       "date.desfase": "28 Sep 2026",
       "date.ancla": "29 Sep 2026",
       "date.ride": "30 Sep 2026",
-      "date.charleston": "1 Oct 2026"
+      "date.charleston": "1 Oct 2026",
+      "date.fantasma": "2 Oct 2026"
     }
   };
 
