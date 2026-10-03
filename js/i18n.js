@@ -186,6 +186,12 @@
       "post.fantasma.p1": "Con el charleston seco bajo el ride callado.",
       "post.fantasma.p2": "Un fantasma de caja casi cae. Casi. No llega. Sin contestar la lead.",
       "post.fantasma.p3": "El estribillo abierto sigue. Todavía no hay título.",
+      "post.tom.title": "El tom — Blog Kairós",
+      "post.tom.desc": "Tras el fantasma, un tom de piso se alza y se corta.",
+      "post.tom.h1": "El tom",
+      "post.tom.p1": "Tras el fantasma que no cae.",
+      "post.tom.p2": "Un tom de piso se alza. Suave. Se corta. Sin contestar la lead.",
+      "post.tom.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -210,7 +216,8 @@
       "date.ancla": "29 sep 2026",
       "date.ride": "30 sep 2026",
       "date.charleston": "1 oct 2026",
-      "date.fantasma": "2 oct 2026"
+      "date.fantasma": "2 oct 2026",
+      "date.tom": "3 oct 2026"
     },
     en: {
       "nav.home": "Home",
@@ -396,6 +403,12 @@
       "post.fantasma.p1": "With the dry hi-hat under the silent ride.",
       "post.fantasma.p2": "A ghost snare almost lands. Almost. It doesn't. Without answering the lead.",
       "post.fantasma.p3": "The open chorus keeps going. Still no title.",
+      "post.tom.title": "The floor tom — Kairós Blog",
+      "post.tom.desc": "After the ghost, a soft floor tom lifts and aborts.",
+      "post.tom.h1": "The floor tom",
+      "post.tom.p1": "After the ghost that doesn't land.",
+      "post.tom.p2": "A soft floor tom lifts. Soft. It cuts short. Without answering the lead.",
+      "post.tom.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -420,7 +433,8 @@
       "date.ancla": "29 Sep 2026",
       "date.ride": "30 Sep 2026",
       "date.charleston": "1 Oct 2026",
-      "date.fantasma": "2 Oct 2026"
+      "date.fantasma": "2 Oct 2026",
+      "date.tom": "3 Oct 2026"
     }
   };
 
