@@ -192,6 +192,12 @@
       "post.tom.p1": "Tras el fantasma que no cae.",
       "post.tom.p2": "Un tom de piso se alza. Suave. Se corta. Sin contestar la lead.",
       "post.tom.p3": "El estribillo abierto sigue. Todavía no hay título.",
+      "post.aro.title": "El aro — Blog Kairós",
+      "post.aro.desc": "Tras el tom cortado, un click en el aro.",
+      "post.aro.h1": "El aro",
+      "post.aro.p1": "Tras el tom que se corta.",
+      "post.aro.p2": "Un click en el aro. Seco. Casi un conteo. Sin contestar la lead.",
+      "post.aro.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -217,7 +223,8 @@
       "date.ride": "30 sep 2026",
       "date.charleston": "1 oct 2026",
       "date.fantasma": "2 oct 2026",
-      "date.tom": "3 oct 2026"
+      "date.tom": "3 oct 2026",
+      "date.aro": "4 oct 2026"
     },
     en: {
       "nav.home": "Home",
@@ -409,6 +416,12 @@
       "post.tom.p1": "After the ghost that doesn't land.",
       "post.tom.p2": "A soft floor tom lifts. Soft. It cuts short. Without answering the lead.",
       "post.tom.p3": "The open chorus keeps going. Still no title.",
+      "post.aro.title": "The rim — Kairós Blog",
+      "post.aro.desc": "After the aborted tom, a click on the rim.",
+      "post.aro.h1": "The rim",
+      "post.aro.p1": "After the tom that cuts short.",
+      "post.aro.p2": "A click on the rim. Dry. Almost a count-in. Without answering the lead.",
+      "post.aro.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -434,7 +447,8 @@
       "date.ride": "30 Sep 2026",
       "date.charleston": "1 Oct 2026",
       "date.fantasma": "2 Oct 2026",
-      "date.tom": "3 Oct 2026"
+      "date.tom": "3 Oct 2026",
+      "date.aro": "4 Oct 2026"
     }
   };
 
