@@ -198,6 +198,12 @@
       "post.aro.p1": "Tras el tom que se corta.",
       "post.aro.p2": "Un click en el aro. Seco. Casi un conteo. Sin contestar la lead.",
       "post.aro.p3": "El estribillo abierto sigue. Todavía no hay título.",
+      "post.cuenta.title": "La cuenta — Blog Kairós",
+      "post.cuenta.desc": "Tras el aro, tres golpes de baqueta. El cuatro no llega.",
+      "post.cuenta.h1": "La cuenta",
+      "post.cuenta.p1": "Tras el click en el aro.",
+      "post.cuenta.p2": "Tres golpes de baqueta. Uno. Dos. Tres. El cuatro no llega. La lead sigue sin respuesta.",
+      "post.cuenta.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -224,7 +230,8 @@
       "date.charleston": "1 oct 2026",
       "date.fantasma": "2 oct 2026",
       "date.tom": "3 oct 2026",
-      "date.aro": "4 oct 2026"
+      "date.aro": "4 oct 2026",
+      "date.cuenta": "5 oct 2026"
     },
     en: {
       "nav.home": "Home",
@@ -422,6 +429,12 @@
       "post.aro.p1": "After the tom that cuts short.",
       "post.aro.p2": "A click on the rim. Dry. Almost a count-in. Without answering the lead.",
       "post.aro.p3": "The open chorus keeps going. Still no title.",
+      "post.cuenta.title": "The count — Kairós Blog",
+      "post.cuenta.desc": "After the rim, three stick clicks. The four never comes.",
+      "post.cuenta.h1": "The count",
+      "post.cuenta.p1": "After the click on the rim.",
+      "post.cuenta.p2": "Three stick clicks. One. Two. Three. The four never comes. The lead still unanswered.",
+      "post.cuenta.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -448,7 +461,8 @@
       "date.charleston": "1 Oct 2026",
       "date.fantasma": "2 Oct 2026",
       "date.tom": "3 Oct 2026",
-      "date.aro": "4 Oct 2026"
+      "date.aro": "4 Oct 2026",
+      "date.cuenta": "5 Oct 2026"
     }
   };
 
