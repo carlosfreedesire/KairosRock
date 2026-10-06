@@ -204,6 +204,12 @@
       "post.cuenta.p1": "Tras el click en el aro.",
       "post.cuenta.p2": "Tres golpes de baqueta. Uno. Dos. Tres. El cuatro no llega. La lead sigue sin respuesta.",
       "post.cuenta.p3": "El estribillo abierto sigue. Todavía no hay título.",
+      "post.cuatro.title": "El cuatro — Blog Kairós",
+      "post.cuatro.desc": "Donde debía caer el cuatro, entra un riff en palm mute.",
+      "post.cuatro.h1": "El cuatro",
+      "post.cuatro.p1": "Tras la cuenta que se queda en tres.",
+      "post.cuatro.p2": "Donde debía caer el cuatro, la rítmica. Palm mute. Púa abajo, rápido, sin pedir permiso. La lead sigue sin respuesta.",
+      "post.cuatro.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -231,7 +237,8 @@
       "date.fantasma": "2 oct 2026",
       "date.tom": "3 oct 2026",
       "date.aro": "4 oct 2026",
-      "date.cuenta": "5 oct 2026"
+      "date.cuenta": "5 oct 2026",
+      "date.cuatro": "6 oct 2026"
     },
     en: {
       "nav.home": "Home",
@@ -435,6 +442,12 @@
       "post.cuenta.p1": "After the click on the rim.",
       "post.cuenta.p2": "Three stick clicks. One. Two. Three. The four never comes. The lead still unanswered.",
       "post.cuenta.p3": "The open chorus keeps going. Still no title.",
+      "post.cuatro.title": "The four — Kairós Blog",
+      "post.cuatro.desc": "Where the four should land, a palm-muted riff comes in.",
+      "post.cuatro.h1": "The four",
+      "post.cuatro.p1": "After the count that stops at three.",
+      "post.cuatro.p2": "Where the four should land, the rhythm guitar. Palm mute. Downpicking, fast, no permission asked. The lead still unanswered.",
+      "post.cuatro.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -462,7 +475,8 @@
       "date.fantasma": "2 Oct 2026",
       "date.tom": "3 Oct 2026",
       "date.aro": "4 Oct 2026",
-      "date.cuenta": "5 Oct 2026"
+      "date.cuenta": "5 Oct 2026",
+      "date.cuatro": "6 Oct 2026"
     }
   };
 
