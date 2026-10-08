@@ -216,6 +216,12 @@
       "post.doble.p1": "Tras el riff que ocupa el cuatro.",
       "post.doble.p2": "El bajo lo dobla. Una octava abajo, nota por nota. Grueso, casi sin ruido de púa. La lead sigue sin respuesta.",
       "post.doble.p3": "El estribillo abierto sigue. Todavía no hay título.",
+      "post.galope.title": "El galope — Blog Kairós",
+      "post.galope.desc": "Riff y bajo, juntos, rompen en galope.",
+      "post.galope.h1": "El galope",
+      "post.galope.p1": "Tras el bajo que dobla el riff.",
+      "post.galope.p2": "Los dos, a la vez, rompen en galope. Una larga, dos cortas. Una larga, dos cortas. Pura púa abajo. La lead sigue sin respuesta.",
+      "post.galope.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -245,7 +251,8 @@
       "date.aro": "4 oct 2026",
       "date.cuenta": "5 oct 2026",
       "date.cuatro": "6 oct 2026",
-      "date.doble": "7 oct 2026"
+      "date.doble": "7 oct 2026",
+      "date.galope": "8 oct 2026"
     },
     en: {
       "nav.home": "Home",
@@ -461,6 +468,12 @@
       "post.doble.p1": "After the riff that takes the four.",
       "post.doble.p2": "The bass doubles it. An octave down, note for note. Thick, almost no pick noise. The lead still unanswered.",
       "post.doble.p3": "The open chorus keeps going. Still no title.",
+      "post.galope.title": "The gallop — Kairós Blog",
+      "post.galope.desc": "Riff and bass, together, break into a gallop.",
+      "post.galope.h1": "The gallop",
+      "post.galope.p1": "After the bass that doubles the riff.",
+      "post.galope.p2": "Both at once break into a gallop. One long, two short. One long, two short. All downpicks. The lead still unanswered.",
+      "post.galope.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -490,7 +503,8 @@
       "date.aro": "4 Oct 2026",
       "date.cuenta": "5 Oct 2026",
       "date.cuatro": "6 Oct 2026",
-      "date.doble": "7 Oct 2026"
+      "date.doble": "7 Oct 2026",
+      "date.galope": "8 Oct 2026"
     }
   };
 
