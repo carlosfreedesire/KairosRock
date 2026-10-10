@@ -228,6 +228,12 @@
       "post.pedal.p1": "Tras el galope de riff y bajo.",
       "post.pedal.p2": "Entra el doble pedal. Sigue el galope golpe a golpe: una larga, dos cortas. La caja todavía espera. La lead sigue sin respuesta.",
       "post.pedal.p3": "El estribillo abierto sigue. Todavía no hay título.",
+      "post.caja.title": "La caja — Blog Kairós",
+      "post.caja.desc": "Por fin cae la caja sobre el galope.",
+      "post.caja.h1": "La caja",
+      "post.caja.p1": "Tras el doble pedal bajo el galope.",
+      "post.caja.p2": "Por fin cae la caja. Seca, en el dos y el cuatro, encima del galope. La batería ya está entera. La lead sigue sin respuesta.",
+      "post.caja.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -259,7 +265,8 @@
       "date.cuatro": "6 oct 2026",
       "date.doble": "7 oct 2026",
       "date.galope": "8 oct 2026",
-      "date.pedal": "9 oct 2026"
+      "date.pedal": "9 oct 2026",
+      "date.caja": "10 oct 2026"
     },
     en: {
       "nav.home": "Home",
@@ -487,6 +494,12 @@
       "post.pedal.p1": "After the gallop of riff and bass.",
       "post.pedal.p2": "The double pedal comes in. It follows the gallop hit for hit: one long, two short. The snare still waits. The lead still unanswered.",
       "post.pedal.p3": "The open chorus keeps going. Still no title.",
+      "post.caja.title": "The snare — Kairós Blog",
+      "post.caja.desc": "The snare finally lands on the gallop.",
+      "post.caja.h1": "The snare",
+      "post.caja.p1": "After the double pedal under the gallop.",
+      "post.caja.p2": "The snare finally lands. Dry, on the two and the four, over the gallop. The drums are whole now. The lead still unanswered.",
+      "post.caja.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -518,7 +531,8 @@
       "date.cuatro": "6 Oct 2026",
       "date.doble": "7 Oct 2026",
       "date.galope": "8 Oct 2026",
-      "date.pedal": "9 Oct 2026"
+      "date.pedal": "9 Oct 2026",
+      "date.caja": "10 Oct 2026"
     }
   };
 
