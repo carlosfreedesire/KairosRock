@@ -234,6 +234,12 @@
       "post.caja.p1": "Tras el doble pedal bajo el galope.",
       "post.caja.p2": "Por fin cae la caja. Seca, en el dos y el cuatro, encima del galope. La batería ya está entera. La lead sigue sin respuesta.",
       "post.caja.p3": "El estribillo abierto sigue. Todavía no hay título.",
+      "post.aceleron.title": "El acelerón — Blog Kairós",
+      "post.aceleron.desc": "Con la batería entera, la banda pisa el acelerador.",
+      "post.aceleron.h1": "El acelerón",
+      "post.aceleron.p1": "Con la caja ya dentro.",
+      "post.aceleron.p2": "Subimos el tempo. La batería pasa al ritmo thrash: bombo y caja alternando a toda prisa. El galope aguanta. La lead sigue sin respuesta.",
+      "post.aceleron.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -266,7 +272,8 @@
       "date.doble": "7 oct 2026",
       "date.galope": "8 oct 2026",
       "date.pedal": "9 oct 2026",
-      "date.caja": "10 oct 2026"
+      "date.caja": "10 oct 2026",
+      "date.aceleron": "11 oct 2026"
     },
     en: {
       "nav.home": "Home",
@@ -500,6 +507,12 @@
       "post.caja.p1": "After the double pedal under the gallop.",
       "post.caja.p2": "The snare finally lands. Dry, on the two and the four, over the gallop. The drums are whole now. The lead still unanswered.",
       "post.caja.p3": "The open chorus keeps going. Still no title.",
+      "post.aceleron.title": "Pushing the tempo — Kairós Blog",
+      "post.aceleron.desc": "With the drums whole, the band floors it.",
+      "post.aceleron.h1": "Pushing the tempo",
+      "post.aceleron.p1": "With the snare finally in.",
+      "post.aceleron.p2": "We push the tempo. The drums switch to the thrash beat: kick and snare trading at full speed. The gallop holds. The lead still unanswered.",
+      "post.aceleron.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -532,7 +545,8 @@
       "date.doble": "7 Oct 2026",
       "date.galope": "8 Oct 2026",
       "date.pedal": "9 Oct 2026",
-      "date.caja": "10 Oct 2026"
+      "date.caja": "10 Oct 2026",
+      "date.aceleron": "11 Oct 2026"
     }
   };
 
