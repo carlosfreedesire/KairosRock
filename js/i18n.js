@@ -240,6 +240,12 @@
       "post.aceleron.p1": "Con la caja ya dentro.",
       "post.aceleron.p2": "Subimos el tempo. La batería pasa al ritmo thrash: bombo y caja alternando a toda prisa. El galope aguanta. La lead sigue sin respuesta.",
       "post.aceleron.p3": "El estribillo abierto sigue. Todavía no hay título.",
+      "post.paron.title": "El parón — Blog Kairós",
+      "post.paron.desc": "A toda velocidad, todo se para en seco. Un golpe de silencio.",
+      "post.paron.h1": "El parón",
+      "post.paron.p1": "Con el ritmo thrash a toda prisa.",
+      "post.paron.p2": "Todo se para en seco. Guitarras, bajo y batería a la vez. Un tiempo de silencio. Luego vuelve el golpe, más fuerte. La lead sigue sin respuesta.",
+      "post.paron.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -273,7 +279,8 @@
       "date.galope": "8 oct 2026",
       "date.pedal": "9 oct 2026",
       "date.caja": "10 oct 2026",
-      "date.aceleron": "11 oct 2026"
+      "date.aceleron": "11 oct 2026",
+      "date.paron": "12 oct 2026"
     },
     en: {
       "nav.home": "Home",
@@ -513,6 +520,12 @@
       "post.aceleron.p1": "With the snare finally in.",
       "post.aceleron.p2": "We push the tempo. The drums switch to the thrash beat: kick and snare trading at full speed. The gallop holds. The lead still unanswered.",
       "post.aceleron.p3": "The open chorus keeps going. Still no title.",
+      "post.paron.title": "The dead stop — Kairós Blog",
+      "post.paron.desc": "At full speed, everything stops dead. One beat of silence.",
+      "post.paron.h1": "The dead stop",
+      "post.paron.p1": "With the thrash beat at full speed.",
+      "post.paron.p2": "Everything stops dead. Guitars, bass and drums at once. One beat of silence. Then the hit comes back, harder. The lead still unanswered.",
+      "post.paron.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -546,7 +559,8 @@
       "date.galope": "8 Oct 2026",
       "date.pedal": "9 Oct 2026",
       "date.caja": "10 Oct 2026",
-      "date.aceleron": "11 Oct 2026"
+      "date.aceleron": "11 Oct 2026",
+      "date.paron": "12 Oct 2026"
     }
   };
 
