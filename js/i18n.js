@@ -252,6 +252,12 @@
       "post.grito.p1": "En el tiempo de silencio del parón.",
       "post.grito.p2": "Gritamos todos a la vez. Una sola palabra, a coro, como en los ochenta. Luego vuelve el golpe. La lead sigue sin respuesta.",
       "post.grito.p3": "El estribillo abierto sigue. Todavía no hay título.",
+      "post.palabra.title": "La palabra — Blog Kairós",
+      "post.palabra.desc": "La palabra del grito está. No la escribimos. El golpe la tapa.",
+      "post.palabra.h1": "La palabra",
+      "post.palabra.p1": "Tras el grito a coro.",
+      "post.palabra.p2": "La palabra está. No la escribimos. El golpe que vuelve la tapa bajo el thrash. La lead sigue sin respuesta.",
+      "post.palabra.p3": "El estribillo abierto sigue. Todavía no hay título.",
       "date.primer": "12 ene 2026",
       "date.ruido": "3 mar 2026",
       "date.espera": "18 jun 2026",
@@ -287,7 +293,8 @@
       "date.caja": "10 oct 2026",
       "date.aceleron": "11 oct 2026",
       "date.paron": "12 oct 2026",
-      "date.grito": "13 oct 2026"
+      "date.grito": "13 oct 2026",
+      "date.palabra": "14 oct 2026"
     },
     en: {
       "nav.home": "Home",
@@ -539,6 +546,12 @@
       "post.grito.p1": "In the beat of silence from the dead stop.",
       "post.grito.p2": "We all shout at once. One single word, together, like in the eighties. Then the hit comes back. The lead still unanswered.",
       "post.grito.p3": "The open chorus keeps going. Still no title.",
+      "post.palabra.title": "The word — Kairós Blog",
+      "post.palabra.desc": "The shouted word is there. We don't write it down. The hit buries it.",
+      "post.palabra.h1": "The word",
+      "post.palabra.p1": "After the gang shout.",
+      "post.palabra.p2": "The word is there. We don't write it down. The hit that comes back buries it under the thrash. The lead still unanswered.",
+      "post.palabra.p3": "The open chorus keeps going. Still no title.",
       "date.primer": "12 Jan 2026",
       "date.ruido": "3 Mar 2026",
       "date.espera": "18 Jun 2026",
@@ -574,7 +587,8 @@
       "date.caja": "10 Oct 2026",
       "date.aceleron": "11 Oct 2026",
       "date.paron": "12 Oct 2026",
-      "date.grito": "13 Oct 2026"
+      "date.grito": "13 Oct 2026",
+      "date.palabra": "14 Oct 2026"
     }
   };
 
